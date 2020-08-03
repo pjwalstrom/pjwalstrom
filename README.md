@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with the [Norwegian Labour and Welfare Administration](https://www.nav.no/no/person)
+- 🔭 I’m currently working at the [Norwegian Labour and Welfare Administration](https://www.nav.no/)
 - 📫 How to reach me: https://twitter.com/pjwalstrom
 
 <!--
