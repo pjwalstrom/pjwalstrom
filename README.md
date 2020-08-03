@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working with the [Norwegian Labour and Welfare Administration](https://www.nav.no/no/person)
+- 📫 How to reach me: https://twitter.com/pjwalstrom
+
 <!--
 **pjwalstrom/pjwalstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
