@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at the [Norwegian Labour and Welfare Administration](https://www.nav.no/)
+- 🔭 I’m currently working at the [Norwegian Agency for Development Cooperation](https://www.norad.no/)
 - 📫 How to reach me: https://twitter.com/pjwalstrom
 
 <!--
