@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at the [Norwegian Agency for Development Cooperation](https://www.norad.no/)
-- 📫 How to reach me: https://twitter.com/pjwalstrom
+- 🔭 I’m currently working at the [Norwegian Labour and Welfare Administration](https://www.nav.no/)
+- 📫 How to reach me: https://bsky.app/profile/pjwalstrom.bsky.social
 
 <!--
 **pjwalstrom/pjwalstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
